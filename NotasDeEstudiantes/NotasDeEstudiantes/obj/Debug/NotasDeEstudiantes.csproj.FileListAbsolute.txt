@@ -1,0 +1,11 @@
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\obj\Debug\NotasDeEstudiantes.csproj.AssemblyReference.cache
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\obj\Debug\NotasDeEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\obj\Debug\NotasDeEstudiantes.Main.resources
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\obj\Debug\NotasDeEstudiantes.Properties.Resources.resources
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\obj\Debug\NotasDeEstudiantes.csproj.GenerateResource.cache
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\obj\Debug\NotasDeEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\bin\Debug\NotasDeEstudiantes.exe.config
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\bin\Debug\NotasDeEstudiantes.exe
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\bin\Debug\NotasDeEstudiantes.pdb
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\obj\Debug\NotasDeEstudiantes.exe
+C:\Users\samuel\Desktop\recursos y demas politecnico\Decimo ciclo\Aplicaciones\proyectos\Caso de estudio-aplicacionesI\NotasDeEstudiantes\NotasDeEstudiantes\obj\Debug\NotasDeEstudiantes.pdb
